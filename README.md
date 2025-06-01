@@ -67,7 +67,30 @@ Unlike other penguin species they lay two eggs and nurture both chicks during th
 Chinstrap penguins can live to be 16-20 years old.
 
 
-### Little Blue *(Kimberly)*
+### 🐧✨ Little Blue Penguin - *Eudyptula minor* *(Kimberly)* ✨🐧
+
+<p align="center"><b>A cute Little Blue Penguin</b><br />
+<img src="https://i.pinimg.com/736x/b4/9d/d4/b49dd472446d06d7bd3471cceb8f2b8e.jpg" alt="A cute Little Blue Penguin" /></p>
+
+* This adorable blue-feathered bird, also known as the **fairy penguin**, is the **smallest** penguin species in the world.
+* They have a **height** of 36 to 43 cm and **weight** of 0.9 to 1.4 kg (so small...).
+* Despite being **small and shy**, Little Blues are **very noisy**! They use a variety of calls for anything from bonding to defending their territory. 
+* Little Blues are **marine neritic** birds, which means they prefer shallow coastal waters. They spend the day diving for food and return to their burrows at dusk. Interestingly, they are the only penguin species that is **nocturnal on land**.
+
+<div align="center">
+ 
+Watch them in action on [YouTube](https://www.youtube.com/watch?v=aMmcFRWRJ8E) for some extra cuteness.  
+Or find out more on [Wikipedia](https://en.wikipedia.org/wiki/Little_penguin) and [Aquarium of the Pacific](https://www.aquariumofpacific.org/onlinelearningcenter/species/little_blue_penguin).
+
+</div>
+
+
+### Gentoo Penguin *(Alicen)*
+
+Beyond their elegant aesthetics, Gentoo penguins are renowned for their remarkable agility, holding the title of the world's fastest underwater birds<sup><a href="https://www.britannica.com/animal/gentoo-penguin">1</a></sup>. These penguins made their Hollywood debut in 2007 with the beloved animated character, Lani, in *Surf's Up*<sup><a href="https://surfs-up.fandom.com/wiki/Lani_Aliikai">2</a></sup>. Gentoo penguins are also known for partaking in a human-like courtship ritual—offering a pebble in exchange for a lifetime partnership<sup><a href="https://www.bbcearth.com/news/the-gift-to-win-a-penguins-heart">3</a></sup>. With their multifaceted charm, these flightless birds are sure to speedily find their way into your heart.   
+
+![Gentoo penguin](images/penguins/Gentoo.jpg) <br>
+**Image sources:** <a href="https://www.josephfiler.com/photo/antarctica-penguin-3986/">top left</a>, <a href="https://ar.inspiredpencil.com/pictures-2023/gentoo-penguins-pebble">bottom left</a>, <a href="https://www.snexplores.org/article/penguin-swimming-physics-fastest-speed">right</a>. 
 
 ### Gentoo Penguin *(Alicen)*
 
